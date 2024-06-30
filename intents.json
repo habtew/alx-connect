@@ -1,0 +1,248 @@
+{
+  "intents": [
+      {
+          "tag": "greeting",
+          "patterns": [
+              "Hi",
+              "Hey",
+              "How are you",
+              "Is anyone there?",
+              "Hello",
+              "Good day"
+          ],
+          "responses": [
+              "Hey :-)",
+              "Hello, thanks for visiting how can I help you?",
+              "Hi there, what can I do for you?",
+              "Hi there, how can I help?"
+          ]
+      },
+      {
+          "tag": "goodbye",
+          "patterns": [
+              "Bye",
+              "See you later",
+              "Goodbye"
+          ],
+          "responses": [
+              "See you later, thanks for visiting",
+              "Have a nice day",
+              "Bye! Come back again soon."
+          ]
+      },
+      {
+          "tag": "thanks",
+          "patterns": [
+              "Thanks",
+              "Thank you",
+              "That's helpful",
+              "Thank's a lot!"
+          ],
+          "responses": [
+              "Happy to help!",
+              "Any time!",
+              "My pleasure"
+          ]
+      },
+      
+      {
+        "tag": "virtual_assistance",
+        "patterns": [
+            "Tell me about virtual assistance",
+            "What can I learn from virtual assistance?",
+            "Details about virtual assistance program"
+        ],
+        "responses": [
+            "Programme Highlights:\nLearning by doing:\nLearn to leverage AI and other workplace apps to work with and support decision makers and gain first-hand insights on how organisations are led.\n\nLearning from others:\nEngage with peers, attend events, and receive direct feedback from mentors and seasoned VAs, building your professional network and essential skills.\n\nFormal coursework & training:\nGain practical experience to develop the right skill sets, tools, and mindsets to thrive as a VA in a rapidly evolving global workplace.\n\n“I was able to relaunch my business AND got at least a new paying customer who ended up purchasing at my highest consulting package partly because I was able to gain more value to offer her from participating in YEP”. Founder of Meremeta Africa Beauty\n\nDuration: 8 weeks\nCommitment: 30 - 40 hours / week  and online\nAdmission fee: 0"
+        ]
+    },
+    {
+        "tag": "professional_foundations",
+        "patterns": [
+            "Tell me about professional foundations",
+            "What can I learn from professional foundations?",
+            "Details about professional foundations program"
+        ],
+        "responses": [
+            "Programme Highlights:\nPart 1: Self Awareness\nFigure out your personal career ambition by meeting members of your cohort and participating in workshops and coursework.\n\nPart 2: Teamwork & Entrepreneurship\nIn a team with members of your cohort, you will develop your teamwork, management, and communication skills in an entrepreneurial project.\n\nPart 3: Specialisation & Portfolio\nStart looking at career paths in your preferred specialisation and understand how to build your portfolio and CV to showcase your new skills.\n\nDuration: 8 weeks\nCommitment: 30 - 40 hours / week  and online\nAdmission fee: 0"
+        ]
+    },
+    {
+        "tag": "ai_career_essentials",
+        "patterns": [
+            "Tell me about AI career essentials",
+            "What can I learn from AI career essentials?",
+            "Details about AI career essentials program"
+        ],
+        "responses": [
+            "Programme Highlights:\nNavigate AI in the Real World\nDevelop a deep understanding of common AI buzzwords, trends, and concepts so you can effectively use AI in the real world.\n\nLearn Critical Tech Skills for the 21st-Century\nAdvance your career using AI-driven tools to refine job search strategies, build your CV, and create your own personal brand.\n\nUnleash Your True Potential\nUse AI tools to ideate, strategise, and execute key entrepreneurial tasks, fostering innovation and driving business success.\n\nDuration: 6 weeks\nCommitment: 30 - 40 hours / week  and online\nAdmission fee: 0"
+        ]
+    },
+    {
+        "tag": "front_end_web_development",
+        "patterns": [
+            "Tell me about front-end web development",
+            "What can I learn from front-end web development?",
+            "Details about front-end web development program"
+        ],
+        "responses": [
+            "What is Front-End Web Development Programme?\nFront-end developers are the architects of websites and apps. Your job is to make ideas and designs come to life.\n\nThe first 8 weeks are ALX Foundations, where you will learn critical communication, leadership, and career development skills that will help you thrive in the digital workforce.\n\nYou’ll then learn how to code in HTML, CSS, and Javascript through hands-on projects that push you to design user-friendly websites. Your capstone project is to publish your own fully-functional website on GitHub.\n\nThis programme is designed to take you from novice to job-ready in 6 months.\n\nFees & Financing:\nProgramme costs typically range from $7,500 – $12,500 USD, but our partnerships allow us to offer all eligible ALX learners the opportunity to participate with programme costs waived.\n\nProgramme Value (cost waived): $9,500\n2024 Administration Fee: $200\nPay in Full (discount 20%): $160\nPay as you Learn (3x monthly instalment): $66.67/month (3)\n50/50 instalments: $100 (2)\n\nProgramme Requirements:\n18-34 years old\nOf African origin\nAbility to write and speak English proficiently\nA laptop or desktop computer with access to a stable internet connection"
+        ]
+    },
+    {
+        "tag": "back_end_web_development",
+        "patterns": [
+            "Tell me about back-end web development",
+            "What can I learn from back-end web development?",
+            "Details about back-end web development program"
+        ],
+        "responses": [
+            "What is the Back-End Web Development Programme?\nBack-end developers manage servers, security and data storage functions that help websites run properly.\n\nThe first 8 weeks are ALX Foundations, where you will learn critical communication, leadership, and career development skills that will help you thrive in the digital workforce.\n\nYou’ll then learn how to program with Python and how to use data management tools like SQL. Using what you learnt throughout the programme, your capstone project culminates with planning, developing, and deploying a fully-functional back-end web application.\n\nThis programme is designed to take you from novice to job-ready in just 6 months.\n\nFees & Financing:\nProgramme costs typically range from $7,500 – $12,500 USD, but our partnerships allow us to offer all eligible ALX learners the opportunity to participate with programme costs waived.\n\nProgramme Value (cost waived): $9,500\n2024 Administration Fee: $200\nPay in Full (discount 20%): $160\nPay as you Learn (3x monthly instalment): $66.67/month (3)\n50/50 instalments: $100 (2)\n\nProgramme Requirements:\n18-34 years old\nOf African origin\nAbility to write and speak English proficiently\nA laptop or desktop computer with access to a stable internet connection"
+        ]
+    },
+    {
+        "tag": "aws_cloud_computing",
+        "patterns": [
+            "Tell me about AWS cloud computing",
+            "What can I learn from AWS cloud computing?",
+            "Details about AWS cloud computing program"
+        ],
+        "responses": [
+            "What is the AWS Cloud Computing Programme?\nALX is an Amazon Web Services (AWS) Academy member institution. This programme is developed and maintained by AWS, a world leader in cloud technologies.\n\nThe first 8 weeks are ALX Foundations, where you will learn critical communication, leadership, and career development skills that will help you thrive in the digital workforce.\n\nYou’ll then learn all about AWS, focusing on solutions architecture, storage & databases, cloud architecture, and security. Each of these modules represent potential career paths AWS Cloud Practitioners can follow after becoming certified.\n\nUpon completion, you will receive a globally-recognised AWS Cloud Practitioner and Solutions Architect certifications from Amazon Web Services.\n\nFees & Financing:\nProgramme costs typically range from $7,500 – $12,500 USD, but our partnerships allow us to offer all eligible ALX learners the opportunity to participate with programme costs waived.\n\nProgramme Value (cost waived): $7,500\n2024 Administration Fee: $150\nPay in Full (discount 20%): $120\nPay as you Learn (3x monthly instalment): $50/month (3)\n50/50 instalments: $75 (2)\n\nProgramme Requirements:\n18-34 years old\nOf African origin\nAbility to write and speak English proficiently\nA laptop or desktop computer with access to a stable internet connection"
+        ]
+    },
+    {
+        "tag": "salesforce_administrator",
+        "patterns": [
+            "Tell me about Salesforce administrator",
+            "What can I learn from Salesforce administrator?",
+            "Details about Salesforce administrator program"
+        ],
+        "responses": [
+            "What is the Salesforce Administrator Programme?\nThis programme is developed in partnership with Salesforce, the world’s leading customer relationship management (CRM) platform.\n\nThe first 8 weeks are ALX Foundations, where you will learn critical communication, leadership, and career development skills that will help you thrive in the digital workforce.\n\nYou’ll then learn how to navigate the CRM platform and model data, focusing on practical applications of skills. Important topics include security, customising dashboards, data management, and data analysis.\n\nUpon successful completion, you will receive a Salesforce Administrator certificate issued by Salesforce.\n\nFees & Financing:\nProgramme costs typically range from $7,500 – $12,500 USD, but our partnerships allow us to offer all eligible ALX learners the opportunity to participate with programme costs waived.\n\nProgramme Requirements:\n18-34 years old\nOf African origin\nAbility to write and speak English proficiently\nA laptop or desktop computer with access to a stable internet connection"
+        ]
+    },
+    {
+      "tag": "data_analytics",
+      "patterns": [
+          "Tell me about data analytics",
+          "What can I learn from data analytics?",
+          "Details about data analytics program"
+      ],
+      "responses": [
+                "What is the Data Analytics Programme?\nDeveloped in partnership with ExploreAI, a leader in Data Analytics education.\n\nThe first 8 weeks are ALX Foundations, where you will learn critical communication, leadership, and career development skills that will help you thrive in the digital workforce.\n\nDuring the data analytics specialisation, you will focus your attention on real-world applications of data analysis and gain a basic understanding of how to explore, analyse, transform, and visualise data. In the end, you will receive a certificate of completion in Data Analytics.\n\nFees & Financing:\nProgramme costs typically range from $7,500 – $12,500 USD, but our partnerships allow us to offer all eligible ALX learners the opportunity to participate with programme costs waived.\n\nProgramme Value (sponsored): $7,500\nAdmin Fee: $150\nPay Upfront (20%): $120\nPay as you Learn (3x monthly instalment): $50/month (3)\n50/50 instalments: $75 (2)\n\nProgramme Requirements:\n18-34 years old\nOf African origin\nAbility to write and speak English proficiently\nA laptop or desktop computer with access to a stable internet connection"
+            ]
+        },
+        {
+          "tag": "faq1",
+          "patterns": [
+              "How can I get in touch with ALX Africa to answer the questions I have?"
+          ],
+          "responses": [
+              "Please ask LEA our Learning Experience Assistant for more information and answers to any additional questions."
+          ]
+      },
+      {
+          "tag": "faq2",
+          "patterns": [
+              "What is ALX?"
+          ],
+          "responses": [
+              "ALX offers job-ready training in the tech fields employers need most. ALX is brought to you by the organisation that leads African Leadership Academy, African Leadership University, and Anzisha Prize Foundation."
+          ]
+      },
+      {
+          "tag": "faq3",
+          "patterns": [
+              "What is your selection process like?"
+          ],
+          "responses": [
+              "The ALX Selection Process is a two-step online process. First applicants will be required to complete a registration form which will take a few minutes to complete. Once this has been submitted, applicants will be directed to our online application platform. The application will take approximately 90 mins to complete and consists of three sections; including an English proficiency test. Applicants will also receive access to the online application via email. Your link to the application is personal and therefore cannot be shared."
+          ]
+      },
+      {
+          "tag": "faq4",
+          "patterns": [
+              "Why do I have to pay an admin fee?"
+          ],
+          "responses": [
+              "The low-cost, one-time administration fee helps ALX as we continue to grow our robust online and in-person infrastructure for learners. Our city Hubs can continue to provide learners with access to state-of-the-art tech and infrastructure, providing a space for collaboration and study that is unmatched. We can also maintain our online portal to make it easier for students to access our vast tech community. The administration fee helps us keep our online portal, modern infrastructure, and career network up and running."
+          ]
+      },
+      {
+          "tag": "faq5",
+          "patterns": [
+              "Am I able to go to the Hubs?"
+          ],
+          "responses": [
+              "Attending the in-person hubs is a benefit of the ALX learning experience. The in-person co-working spaces are designed to provide accountability, peer support, and the opportunity for face-to-face interaction and networking. This is intended to boost productivity and help individuals achieve their goals."
+          ]
+      },
+      {
+          "tag": "faq6",
+          "patterns": [
+              "What is sponsored?"
+          ],
+          "responses": [
+              "Our partnership with the Mastercard Foundation means that we can offer eligible African learners sponsored access to our world-class training programmes. If you meet our eligibility criteria and can successfully motivate for the programme of your choice to be fully sponsored, you will not be required to pay the full programme costs, which range from $7,500 USD to $49,000 USD for African students. You will need to pay the one-off administration fee to successfully enroll in the programme, however."
+          ]
+      },
+      {
+          "tag": "faq7",
+          "patterns": [
+              "Which programme do you recommend I apply for?"
+          ],
+          "responses": [
+              "The perfect programme for you really depends on your own interests. Our Tech Lite programmes are a great starting point to figure out your next career move. If you’re interested in coding and building websites, Intro to Software Engineering might be for you. For those interested in manipulating large data sets or working with customer data, Data Analytics or Salesforce might be a good choice."
+          ]
+      },
+      {
+          "tag": "faq8",
+          "patterns": [
+              "How do I join your sessions?"
+          ],
+          "responses": [
+              "By enrolling in one of our programmes, you gain access to a world of opportunity. This includes access to our local Tech Hubs situated in 8 cities across the African continent. There, you can attend lectures and masterclasses, network with other tech professionals, and co-work in a state-of-the-art space. After completing your course, you will still be able to access these perks, as you will automatically be part of the ALX Fellowship, which helps learners further their career after completing their programme."
+          ]
+      },
+      {
+          "tag": "faq9",
+          "patterns": [
+              "Is your programme really for beginners?"
+          ],
+          "responses": [
+              "Our Tech Lite programmes are designed for absolute beginners. All Tech Lite programmes are beginner-friendly and do not require any previous tech knowledge."
+          ]
+      },
+      {
+          "tag": "faq10",
+          "patterns": [
+              "Do I get a diploma or degree?"
+          ],
+          "responses": [
+              "After completing our Tech Lite programmes, you will receive a certificate from our issuing partner. Upon successful completion of AWS Cloud Computing, you will receive a Cloud Practitioner certificate, issued by Amazon Web Services. After completing the Salesforce Administrator programme, you will receive a Salesforce Administrator certificate directly from Salesforce. ExploreAI will also issue you a Data certificate after you successfully complete the Data Analytics programme. Last, on completion of Intro to Software Engineering, you will receive a certificate of completion from ALX."
+          ]
+      },
+      {
+          "tag": "faq11",
+          "patterns": [
+              "I’m still working/a student, can I still join an ALX programme?"
+          ],
+          "responses": [
+              "Our various programmes require different time commitments to complete. Our Tech Lite programmes are designed specifically to cater to learners who might have other commitments – like school or a job – to tend to. So long as you are dedicated to the programme, you can make it work.\nAdditionally, there are no live lectures or classes to attend. Instead, programmes consist of recorded lectures, chats in online forums, and milestone-led coursework. This means that you can choose to learn at your own pace and a time that suits your schedule best."
+          ]
+      },
+      {
+        "tag": "programs_intro",
+        "patterns": [
+            "Tell me about the programs",
+            "What programs do you offer?",
+            "List the programs available",
+            "What are the different types of programs?"
+        ],
+        "responses": [
+            "We offer several specialized programs designed to equip learners with job-ready skills in high-demand tech fields. Each program varies in duration and focus to cater to different career aspirations."
+        ]
+    }
+  ]
+}
