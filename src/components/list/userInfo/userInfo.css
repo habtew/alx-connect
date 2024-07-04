@@ -1,0 +1,78 @@
+/* .userInfo {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  .user {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+
+    img {
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+      object-fit: cover;
+    }
+  }
+
+  .icons {
+    display: flex;
+    gap: 20px;
+
+    img {
+      width: 20px;
+      height: 20px;
+      cursor: pointer;
+    }
+  }
+} */
+
+
+.userInfo {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.userInfo .user {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.userInfo .user img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.userInfo .icons {
+  display: flex;
+  gap: 20px;
+  position: relative; /* To position the logout option absolutely within this container */
+}
+
+.userInfo .icons img {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}
+
+.logout-option {
+  position: absolute;
+  top: 40px; /* Adjust based on your icon's size and position */
+  right: 0;
+  background-color: white;
+  border: 1px solid #ccc;
+  padding: 10px;
+  cursor: pointer;
+  z-index: 1000;
+}
+
+.logout-option:hover {
+  background-color: #f0f0f0;
+}
